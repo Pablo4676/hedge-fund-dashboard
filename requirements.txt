@@ -7,3 +7,4 @@ pytz
 requests
 scikit-learn
 streamlit-autorefresh
+openpyxl
